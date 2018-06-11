@@ -2,12 +2,16 @@
 ## Description
 A minimalistic personal website template.
 ## Instructions
+
 **1. Download**
 Download the template from our website at https://html5rocket.github.io.
+
 **2. Edit HTML**
 Edit the name, job description, and footer name to whatever you'd like.
+
 **3. Add Photo**
 Change the profile photo by replacing the file "person.png" at assets/img/person.png.
+
 **4. Edit Social Links**
 Edit the links at the bottom to fit whatever account you'd like to link to.
 ## License
