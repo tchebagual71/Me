@@ -1,6 +1,8 @@
 # Me
 ## Description
 A minimalistic personal website template.
+## Live Demo
+See a live demo of the Me template at https://html5rocket.github.io/Me.
 ## Instructions
 
 ### 1. Download
