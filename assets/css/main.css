@@ -86,7 +86,7 @@ div.main section.links a:hover svg path {
         width: 90%;
     }
 }
-@media only screen and (max-height: 653.88px) {
+@media only screen and (max-height: 653.88px) and (max-width: 444.44px) {
     div.main {
         margin: 5vw 0;
         margin-bottom: 0;
