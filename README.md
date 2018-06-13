@@ -22,3 +22,9 @@ Feel free to change the background photo by replacing "bg.jpg" at assets/img/bg.
 
 ## License
 All HTML5 Rocket templates are licensed under the CC0 License, which means that you can use this template and others for free, and with no attribution whatsoever. However, HTML5 Rocket can and will not be held liable for any damages caused directly or indirectly from our templates.
+
+## Photos and Resources Used
+All photos and resources used were licensed under the CC0 License.
+
+- Background photo from https://pixabay.com/en/hills-mountains-misty-landscape-984069/
+- Profile Photo from https://randomuser.me/api/portraits/men/34.jpg
