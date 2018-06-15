@@ -27,4 +27,4 @@ All HTML5 Rocket templates are licensed under the CC0 License, which means that 
 All photos and resources used were licensed under the CC0 License.
 
 - Background photo from https://pixabay.com/en/hills-mountains-misty-landscape-984069/
-- Profile Photo from https://randomuser.me/api/portraits/men/34.jpg
+- Profile photo from https://randomuser.me/api/portraits/men/34.jpg
