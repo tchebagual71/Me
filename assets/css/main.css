@@ -32,13 +32,14 @@ div.head section.header img {
     padding: 10px;
 }
 
-div.head section.header {
+div.head section.header h1{
     font-family: 'Patrick Hand SC', cursive;
+    font-size: 150px;
+    background: pink;
 }
 
 div.main {
     font-family: 'Patrick Hand SC', cursive;
-
     width: 400px;
     background-color: hotpink;
     border-radius: 5px;
@@ -46,7 +47,7 @@ div.main {
     box-sizing: border-box;
     padding: 35px 15px;
     display: inline-block;
-    margin-top: calc(((100vh - 565px) / 2));
+    margin-top: calc(((100vh - 650px) / 2));
 }
 
 div.main section.photo img {
