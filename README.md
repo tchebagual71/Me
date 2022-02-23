@@ -18,7 +18,7 @@ Change the profile photo by replacing the file "person.png" at assets/img/person
 Edit the links at the bottom to fit whatever account you'd like to link to. Feel free to change both the url's of the links, and the SVGs inside the links to change the social media logos. Iconmonstr icons are recommended for free SVGs.
 
 ### 5. Change Background
-Feel free to change the background photo by replacing "bg.jpg" at assets/img/bg.jpg. The gradient overlay can also be changed on line 12 of "main.css" at assets/css/main.css.
+Feel free to change the background photo by replacing ```assets/img/bg.jpg```. The gradient overlay can also be changed on line 12 of ```assets/css/main.css```.
 
 ## License
 All HTML5 Rocket templates are licensed under the CC0 License, which means that you can use this template and others for free, and with no attribution whatsoever. However, HTML5 Rocket can and will not be held liable for any damages caused directly or indirectly from our templates.

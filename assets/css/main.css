@@ -14,48 +14,54 @@ body {
     background-size: cover;
     min-height: 100vh;
 }
+
 footer {
     width: 100%;
     display: block;
     text-align: center;
     font-size: 17.5px;
     color: white;
-    line-height: 75px;
     position: absolute;
     bottom: 0;
 }
+div.head section.header img {
+    text-align: center;
+    display: inline-block;
+    margin: 0 auto;
+    border-radius: 150px;
+    padding: 10px;
+}
+
+div.head section.header {
+    font-family: 'Patrick Hand SC', cursive;
+}
+
 div.main {
+    font-family: 'Patrick Hand SC', cursive;
+
     width: 400px;
-    background-color: white;
+    background-color: hotpink;
     border-radius: 5px;
     text-align: center;
     box-sizing: border-box;
-    padding: 75px 25px;
+    padding: 35px 15px;
     display: inline-block;
-    height: 490px;
     margin-top: calc(((100vh - 565px) / 2));
 }
-div.main section.photo {
-    height: 125px;
-}
+
 div.main section.photo img {
-    height: 125px;
-    border-radius: 50%;
+    height: 225px;
 }
 div.main section.info {
     height: 115px;
-}
-div.main section.info h1 {
-    font-size: 30px;
-    font-weight: 400;
-    line-height: 50px;
-    padding-top: 25px;
-    padding-bottom: 10px;
 }
 div.main section.info h2 {
     font-size: 18px;
     font-weight: 300;
     line-height: 30px;
+}
+div.main section.header img{
+    border-radius: 150px;
 }
 div.main section.links {
     height: 100px;
@@ -74,7 +80,7 @@ div.main section.links a svg {
     width: auto;
 }
 div.main section.links a svg path {
-    fill: #c8cccf;
+    fill: #90EE90;
     transition: fill 0.25s ease;
 }
 div.main section.links a:hover svg path {
@@ -82,12 +88,12 @@ div.main section.links a:hover svg path {
 }
 
 @media only screen and (max-width: 444.44px) {
-    div.main {
+    div.body {
         width: 90%;
     }
 }
 @media only screen and (max-height: 653.88px) and (max-width: 444.44px) {
-    div.main {
+    div.body {
         margin: 5vw 0;
         margin-bottom: 0;
     }
