@@ -4,7 +4,6 @@
 }
 body {
     font-family: "Source Sans Pro", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-transform: uppercase;
     font-weight: 300;
     letter-spacing: 4px;
     text-align: center;
@@ -29,12 +28,11 @@ div.head section.header img {
     display: inline-block;
     margin: 0 auto;
     border-radius: 150px;
-    padding: 10px;
 }
 
 div.head section.header h1{
-    font-family: 'Patrick Hand SC', cursive;
-    font-size: 150px;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 100px;
 
 }
 
