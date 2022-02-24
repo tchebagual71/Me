@@ -9,7 +9,7 @@ body {
     letter-spacing: 4px;
     text-align: center;
     color: #414f57;
-    background-image: linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(../img/bg.jpg);
+    background: linear-gradient(0.25turn, #fba8ff, #ebf8e1, #9dfcb6);
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 100vh;
@@ -35,13 +35,13 @@ div.head section.header img {
 div.head section.header h1{
     font-family: 'Patrick Hand SC', cursive;
     font-size: 150px;
-    background: pink;
+
 }
 
 div.main {
     font-family: 'Patrick Hand SC', cursive;
     width: 400px;
-    background-color: hotpink;
+    background: rgb(122, 122, 122, 20%);
     border-radius: 5px;
     text-align: center;
     box-sizing: border-box;
@@ -81,11 +81,11 @@ div.main section.links a svg {
     width: auto;
 }
 div.main section.links a svg path {
-    fill: #90EE90;
+    fill: rgb(242, 0, 255);
     transition: fill 0.25s ease;
 }
 div.main section.links a:hover svg path {
-    fill: #414f57;
+    fill: #fba8ff;
 }
 
 @media only screen and (max-width: 444.44px) {
